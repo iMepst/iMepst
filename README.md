@@ -30,7 +30,7 @@ I am an aspiring Computer Science Student from Hamburg, Germany.
 - :mailbox:How to reach me: imepst@gmail.com
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -43,5 +43,7 @@ I am an aspiring Computer Science Student from Hamburg, Germany.
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iMepst&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### :fire: My Statistics:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iMepst&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br/> <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iMepst&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
