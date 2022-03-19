@@ -27,7 +27,6 @@ I am an aspiring Computer Science Student from Hamburg, Germany.
 
 - :zap: In my free time, I explore my Arduino and read tech articles.
 
-- :mailbox:How to reach me: imepst@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
