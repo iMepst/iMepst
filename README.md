@@ -1,10 +1,10 @@
-# Moin, I'm Markus 👋
+## Moin 👋
 
-Web developer from Hamburg, Germany. I work as a working student (web development)
-and I'm finishing my B.Sc. in Media Systems at HAW Hamburg.
+I'm Markus from Hamburg, Germany. I work as a Web Developer
+and currently a student in B.Sc. Media Systems at HAW Hamburg.
 
 Right now I'm writing my Bachelor's thesis on **automated tennis serve assessment
-using markerless human pose estimation** — analyzing serve technique from plain
+using markerless human pose estimation**. Analyzing serve technique from plain
 monocular video with Google MediaPipe, no sensors or markers required.
 
 ### What I work with
