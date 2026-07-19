@@ -19,12 +19,12 @@ monocular video with Google MediaPipe, no sensors or markers required.
   computer vision pipeline that understands scenes and controls smart home devices.
 - **[tennisServeHPE](https://github.com/iMepst/tennisServeHPE)** — Thesis project:
   serve phase segmentation and technique assessment from monocular video. *Work in progress.*
-- **[CGA-Projekt](https://github.com/iMepst/CGA-Projekt)** — Interactive 3D scene
+- **[threejs-speaker-scene](https://github.com/iMepst/threejs-speaker-scene)** — Interactive 3D scene
   built with Three.js for a computer graphics course.
 
 ### Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/markus-epstein) · Portfolio site coming soon
+[LinkedIn](https://www.linkedin.com/in/markus-epstein)
 
 ---
 
