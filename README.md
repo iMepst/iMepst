@@ -1,7 +1,7 @@
 ## Moin 👋
 
-I'm Markus from Hamburg, Germany. I work as a Web Developer
-and currently a student in B.Sc. Media Systems at HAW Hamburg.
+I'm Markus from Hamburg, Germany. I work as a web developer and I'm currently
+finishing my B.Sc. in Media Systems at HAW Hamburg.
 
 Right now I'm writing my Bachelor's thesis on **automated tennis serve assessment
 using markerless human pose estimation**. Analyzing serve technique from plain
@@ -10,6 +10,7 @@ monocular video with Google MediaPipe, no sensors or markers required.
 ### What I work with
 
 **Professionally:** React · TypeScript · Three.js · PHP/WordPress · Shopify
+
 **Thesis & side projects:** Python · MediaPipe · OpenCV
 
 ### Selected projects
@@ -26,4 +27,5 @@ monocular video with Google MediaPipe, no sensors or markers required.
 [LinkedIn](https://www.linkedin.com/in/markus-epstein-41a777210/) · Portfolio site coming soon
 
 ---
+
 *More projects in my [repositories](https://github.com/iMepst?tab=repositories)*
