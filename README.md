@@ -24,7 +24,7 @@ monocular video with Google MediaPipe, no sensors or markers required.
 
 ### Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/markus-epstein-41a777210/) · Portfolio site coming soon
+[LinkedIn](www.linkedin.com/in/markus-epstein) · Portfolio site coming soon
 
 ---
 
